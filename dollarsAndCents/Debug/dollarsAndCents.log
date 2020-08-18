@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\chris\source\repos\dollarsAndCents\dollarsAndCents\Source.c(38,40): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  dollarsAndCents.vcxproj -> C:\Users\chris\source\repos\dollarsAndCents\Debug\dollarsAndCents.exe
